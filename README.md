@@ -24,3 +24,6 @@ High quality data is precondition for analyzing and using big data and for guara
 > **Value of the data** - Is there a good cost/benefit case for the data? Is it being optimally used?
                         Does it endanger people’s safety or privacy or the legal responsibilities of the enterprise?
                         Does it support or contradict the corporate image or the corporate message?<br/>
+# Technologies and Tools Used
+R console 3.5.1</br>
+R programming
